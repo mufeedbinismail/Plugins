@@ -1,0 +1,30 @@
+/**
+ * Malayalam translation
+ *  @name Malayalam
+ *  @anchor Malayalam
+ *  @author <a href="https://www.linkedin.com/in/mohamed-mufeed">Mohamed Mufeed</a>
+ */
+ 
+ {
+	"sEmptyTable":     "ടേബിളിൽ ഡാറ്റ ലഭ്യമല്ല",
+	"sInfo":           "_TOTAL_ ൽ _START_ മുതൽ _END_ വരെ കാണിക്കുന്നു",
+	"sInfoEmpty":      "0 ൽ 0 കാണിക്കുന്നു",
+	"sInfoFiltered":   "(_MAX_ എൻട്രികളിൽ നിന്നും ഫിൽട്ടർ ചെയ്തത്)",
+	"sInfoPostFix":    "",
+	"sInfoThousands":  ",",
+	"sLengthMenu":     "_MENU_ എൻട്രികൾ കാണിക്കുക",
+	"sLoadingRecords": "ലോഡിംഗ്...",
+	"sProcessing":     "പ്രോസസ്സ് ചെയ്യുന്നു ...",
+	"sSearch":         "തിരയുക:",
+	"sZeroRecords":    "അനുയോജമായ റെക്കോർഡുകളൊന്നും കണ്ടെത്തിയില്ല",
+	"oPaginate": {
+		"sFirst":    "ആദ്യത്തേത്",
+		"sLast":     "അവസാനത്തേത്",
+		"sNext":     "അടുത്തത്",
+		"sPrevious": "മുമ്പിലത്തേത്"
+	},
+	"oAria": {
+		"sSortAscending":  "ആരോഹണ ക്രമത്തിൽ ക്രമീകരിക്കാൻ: സജ്ജമാക്കുക",
+		"sSortDescending": "അവരോഹണ ക്രമത്തിൽ ക്രമീകരിക്കാൻ: സജ്ജമാക്കുക"
+	}
+}
