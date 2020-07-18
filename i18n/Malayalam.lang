@@ -14,7 +14,7 @@
 	"sInfoThousands":  ",",
 	"sLengthMenu":     "_MENU_ എൻട്രികൾ കാണിക്കുക",
 	"sLoadingRecords": "ലോഡിംഗ്...",
-	"sProcessing":     "പ്രോസസ്സ് ചെയ്യുന്നു ...",
+	"sProcessing":     "പ്രോസസ്സ് ചെയ്യുന്നു...",
 	"sSearch":         "തിരയുക:",
 	"sZeroRecords":    "അനുയോജമായ റെക്കോർഡുകളൊന്നും കണ്ടെത്തിയില്ല",
 	"oPaginate": {
